@@ -5,4 +5,4 @@ Neste repositório você vai encontrar as versões finais dos códigos que foram
 
 Sinta-se a vontade para baixá-los e usá-los da forma como achar melhor.
 
-Até logo, a gente se vê.
+Até a próxima, a gente se vê.
